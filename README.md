@@ -29,5 +29,3 @@ CareerForge AI is a **Multi-Agent System** built with the **Google AI Agent Deve
 3. Run the cells to initialize the `CareerForgeApp`.
 4. Input your Resume and target Job Description.
 
-## 🎥 Demo
-[Insert link to your YouTube video here if you make one]
