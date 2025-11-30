@@ -1,0 +1,3 @@
+google-generativeai
+kaggle-secrets
+ipython
